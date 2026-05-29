@@ -44,15 +44,6 @@ Los elementos visuales principales son:
 * 🎴 `MaterialCardView` para representar las tarjetas de métodos de ingreso.
 * 🎨 Iconos personalizados ubicados en la carpeta `drawable`.
 
-## 🖼️ Capturas del diseño
-
-### 🧩 Vista del diseño en Android Studio
-
-
-### 📲 Vista en emulador o dispositivo móvil
-
-
-
 ## 📁 Recursos utilizados
 
 Para el desarrollo de la interfaz se utilizaron imágenes e iconos almacenados en la carpeta `drawable`, tales como:
